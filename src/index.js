@@ -5,7 +5,7 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
 window.onload = function () {
-  window.location.replace("https://mono-pg.github.io/lucky-store/");
+  window.location.replace("https://Barmono-Berutu.github.io/lucky-store/");
 };
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
